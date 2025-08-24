@@ -22,7 +22,7 @@ I’m always open to collaboration, mentorship, and learning new technologies. L
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/muhammad-shahmeer-6a6851378/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Support Me
+**Support Me**
 
 <ul style="list-style-type: none; margin: 0;">
 
