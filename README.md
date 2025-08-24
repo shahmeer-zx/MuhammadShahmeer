@@ -12,7 +12,7 @@ I’m always open to collaboration, mentorship, and learning new technologies. L
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [founder@nexbridgesolutions.online](mailto:founder@nexbridgesolutions.online)
-* 👥  I'm looking to collaborate on All Projects
+* 👥  I'm looking to collaborate on All Projects new and old
 * 💬  Ask me about I am Batman
 
 <p align="left">
